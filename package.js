@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'moac:tools',
+  name: 'moaclib:tools',
   summary: 'Helper functions for dapps',
   version: '0.1.0',
   git: 'http://github.com/innowells/meteor-package-tools'
@@ -33,7 +33,7 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   api.use('tinytest');
-  api.use('mc:tools');
+  api.use('moaclib:tools');
   api.addFiles('mctools-tests.js', ['client', 'server']);
 });
 

@@ -9,7 +9,7 @@ See here for a [demo of the template helpers](http://localhost:4000/#tools).
 
 You can either add it as a Meteor package using:
 
-    $ Meteor add moac:tools
+    $ Meteor add moaclib:tools
 
 or add link to the `mctools.js` in your HTML.
 

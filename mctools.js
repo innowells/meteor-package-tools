@@ -8,7 +8,7 @@ Template Controllers
 /**
 Helper functions for moac dapps
 
-@class [packages] moac:tools
+@class [packages] moaclib:tools
 @constructor
 */
 
